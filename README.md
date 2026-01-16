@@ -1,20 +1,17 @@
-# my-first-repo
-# My First GitHub Repository
+# Hi 👋 I'm Varni Paghadar
 
-This repository is created as part of learning GitHub basics.
+🎓 Diploma student in Information & Communication Technology (ICT)  
+💻 Learning Linux, GitHub & VLSI basics  
+🚀 Interested in Open Source & Hardware Design  
 
-## 📌 About Project
-- This is my first GitHub project
-- Created for practice purpose
+## 🔧 Skills
+- C Programming  
+- Linux Basics  
+- GitHub  
+- Basic VLSI Concepts  
 
-## 🛠 Technologies Used
-- C Language
-- Linux
+## 📫 Contact
+- GitHub: https://github.com/varnipaghadar
 
-## ▶ How to Use
-1. Download the code
-2. Compile using GCC
-3. Run on Linux terminal
+⭐ Always eager to learn new technologies!
 
-## 👤 Author
-Varni Paghadar

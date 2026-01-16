@@ -1,17 +1,26 @@
-# Hi 👋 I'm Varni Paghadar
+# My First GitHub Repository
 
-🎓 Diploma student in Information & Communication Technology (ICT)  
-💻 Learning Linux, GitHub & VLSI basics  
-🚀 Interested in Open Source & Hardware Design  
+This repository is created to practice GitHub basics and C programming on Linux.
 
-## 🔧 Skills
-- C Programming  
-- Linux Basics  
-- GitHub  
-- Basic VLSI Concepts  
+## 📌 About Project
+- Beginner level C program
+- Prints a simple message on terminal
+- Useful for learning GitHub + Linux workflow
 
-## 📫 Contact
-- GitHub: https://github.com/varnipaghadar
+## 🛠 Technologies Used
+- C Programming Language
+- GCC Compiler
+- Linux OS
 
-⭐ Always eager to learn new technologies!
+## ▶ How to Run the Code
+1. Open Linux Terminal
+2. Compile the program:
+   gcc hello.c -o hello
+3. Run the program:
+   ./hello
 
+## 📂 Files
+- hello.c → Simple C program to print message
+
+## 👤 Author
+Varni Paghadar

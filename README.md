@@ -1,26 +1,39 @@
-# My First GitHub Repository
+# 👋 Hi, I'm Varni Paghadar
 
-This repository is created to practice GitHub basics and C programming on Linux.
+🎓 Diploma Student in **Information & Communication Technology (ICT)**  
+💻 Beginner **Software Developer**  
+🌱 Currently learning **Python, Web Development & GitHub**
 
-## 📌 About Project
-- Beginner level C program
-- Prints a simple message on terminal
-- Useful for learning GitHub + Linux workflow
+---
 
-## 🛠 Technologies Used
-- C Programming Language
-- GCC Compiler
-- Linux OS
+## 👨‍💻 About Me
+- 🎓 Diploma ICT student (2023 – 2026)
+- 💡 Interested in Software Development & IoT
+- 🧑‍🎓 Fresher, looking for learning & internship opportunities
+- 📍 Gujarat, India 🇮🇳
 
-## ▶ How to Run the Code
-1. Open Linux Terminal
-2. Compile the program:
-   gcc hello.c -o hello
-3. Run the program:
-   ./hello
+---
 
-## 📂 Files
-- hello.c → Simple C program to print message
+## 🛠️ Skills
+- 💻 Python (Beginner)
+- 🌐 HTML, CSS
+- 🗄️ MySQL
+- 📜 JavaScript (Basic)
+- 🔧 Git & GitHub (Beginner)
 
-## 👤 Author
-Varni Paghadar
+---
+
+## 📂 Projects
+- 🌧️ **Smart Rain Sensor (IoT Automation)**
+- 🤖 **Smart Robot using Python**
+- 🧮 **Basic Python Mini Projects**
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **varnipaghadar05@gmail.com**
+- 📱 Mobile: **+91 63552 42867**
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
